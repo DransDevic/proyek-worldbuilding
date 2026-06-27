@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dunia-kiblat/dunia-kiblat/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/dunia-kiblat/dunia-kiblat/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 
